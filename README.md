@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rosemary
 
-I'm a front-end software developer from Nairobi, Kenya and I'm passionate about creative modern web designs and technology. Some of the technologies I enjoy working with includes JavaScript, APIs, ReactJs, Ruby, Tailwindcss, AntDesign, SQL, Jquery and VueJs.
+I'm a front-end software developer from Nairobi, Kenya and I'm passionate about creating modern web designs and technology. Some of the technologies I enjoy working with includes JavaScript, APIs, ReactJs, Ruby, Tailwindcss, AntDesign, SQL, Jquery and VueJs.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / TAILWINDCSS / ANTDESIGN
 
